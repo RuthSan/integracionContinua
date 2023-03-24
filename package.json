@@ -1,0 +1,12 @@
+{
+  "name": "integracion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ci": "node ci.js",
+    "api": "node api.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
